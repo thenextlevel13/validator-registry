@@ -8,7 +8,7 @@
   "restake": {
     "address": "meme144qwnykt75xdkup80kk0c5c7m3ayccn7jwnef9",
     "run_time": [
-      "every 10 minutes"
+      "every 5 minutes"
     ],
     "minimum_reward": 10000000
   }
